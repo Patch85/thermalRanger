@@ -1,0 +1,22 @@
+.featuredCardImage {
+    width: 100%;
+    min-height: 10vw;
+    max-height: 15vw;
+    object-fit: cover;
+}
+
+.GermaniaOne {
+    font-family: Germania One;
+}
+
+.homeHero {
+    background: url('https://source.unsplash.com/QpeFep6JaoA') center center;
+    background-size: cover;
+}
+
+.textOutline {
+    text-shadow: -1px 1px 2px #000,
+        1px 1px 2px #000,
+        1px -1px 0 #000,
+        -1px -1px 0 #000;
+}
